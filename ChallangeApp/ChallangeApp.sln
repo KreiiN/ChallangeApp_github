@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallangeApp", "ChallangeApp\ChallangeApp.csproj", "{83A6CE6E-03F4-446A-A93B-A97837468C60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallangeApp.Tests", "ChallangeApp.Tests\ChallangeApp.Tests.csproj", "{EA478B88-372C-4F69-A1C7-AD3D2B807A15}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{83A6CE6E-03F4-446A-A93B-A97837468C60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83A6CE6E-03F4-446A-A93B-A97837468C60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83A6CE6E-03F4-446A-A93B-A97837468C60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA478B88-372C-4F69-A1C7-AD3D2B807A15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA478B88-372C-4F69-A1C7-AD3D2B807A15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA478B88-372C-4F69-A1C7-AD3D2B807A15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA478B88-372C-4F69-A1C7-AD3D2B807A15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
